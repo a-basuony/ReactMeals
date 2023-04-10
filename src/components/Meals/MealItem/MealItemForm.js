@@ -10,7 +10,7 @@ const MealItemForm = (props) => {
     event.preventDefault();
 
     const enteredAmount = amountInputRef.current.value;
-    const enteredAmountNumber = +enteredAmount;
+    const enteredAmountNumber = +enteredAmount; //convert string number to number
 
     if (
       enteredAmount.trim().length === 0 ||
