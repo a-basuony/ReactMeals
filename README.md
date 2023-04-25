@@ -11,5 +11,5 @@ This website is a personal project and contributions are not currently accepted.
 This website is licensed under the MIT License. See the LICENSE file for details. <br>
 
 📧 Contact
-If you have any questions or issues with the website, please contact the owner of the repository, Ahmed Basuony.
+If you have any questions or issues with the website, please contact the owner of the repository, Ahmed Basuony. <br>
 by Ahmed Basuony
